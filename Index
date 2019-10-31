@@ -1,0 +1,259 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+
+		<title>Aphrodite Beauty Academy</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<script type="text/javascript" src="assets/js/SweetAlert.js"></script>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Aphrodite Beauty Academy </strong> </a>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										
+									</ul>
+								</header>
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>Bienvenid@ a <br/>
+											<h1 class="animated lightSpeedIn"> Aphrodite Beauty Academy</h1>
+											<p>Amáte a tí misma!</p>
+
+										</header>
+										<p>Somos una academia de belleza que ofrece una propuesta única e innovadora, con el objetivo de formar y asesorar a todas las mujeres que deseen aprender el arte del maquillaje y el mundo de la moda, y actualizarse con nuevas tendencias. </p>
+										<ul class="actions">
+											<li><a href="#" class="button big">Learn More</a></li>
+										</ul>
+									</div>
+									<span class="image object">
+										<img src="images/makeup-artist-business.jpg" alt="" />
+									</span>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Servicios</h2>
+									</header>
+									<div class="features">
+										<article>
+											<span class="icon fa-gem"></span>
+											<div class="content">
+												<h3>Curso de Automaquillaje</h3>
+												<p> Nuestros cursos están diseñados para impartir conocimientos teóricos, prácticos del automaquillaje. Ya sea que visites nuestra academia, a domicilio o que desees celebrar una ocasiòn especial con una Makeup Party. </p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-paper-plane"></span>
+											<div class="content">
+												<h3> Seminarios Maquillaje Profesional</h3>
+												<p> Te gustaría trabajar como maquillista profesional? Formamos profesionales integrales, aprenderás la historia y bases del maquillaje, todos los pasos para un maquillaje profesional asó como las últimas tendencias.</p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-rocket"></span>
+											<div class="content">
+												<h3>Cursos de Especialización</h3>
+												<p> Si eres maquillista profesional y desea especializarte esta opción es para vos. Especialización en maquillaje de Halloween, Airbruh Makeup, caracterización, Maquillaje de novias, maquillaje de fotografía y de editorial</p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-signal"></span>
+											<div class="content">
+												<h3>Taller de Imagen personal</h3>
+												<p>Tienes muchas prendas en el closet y no sabes como usarlas o descartarlas? Te enseñamos a identificar cuál es tu tipo de cuerpo y cuáles prendas te favorecen. Aprenderemos cuales accesorios y colores te favorecen según tu tono de piel. También veremos las tendencias del 2020.</p>
+											</div>
+										</article>
+									</div>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Blog</h2>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<h3>Tendencias de colores 2020 </h3>
+											<p>La moda se viene muy colorida, la paleta de colores SS20 esta llenos de vivo y alegres tonos de rojos, rosa, naranja y amarillos. 
+
+												Las calles de capitales de la moda como Londres, Nueva York, París y Milán están repletas de los últimos diseños del verano, y nos guían para saber lo que se viene para el hemisferio sur.
+
+											Que se usara? Desde pantalones cortos combinados con chaquetas de traje y camisas. Frescos vestidos. una amplia variedad de prendas en denim y lino.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<h3> Con tus outfits reflejas tu estilo? </h3>
+											<p> Ya sabemos cuales son los colores de moda y todas las tendencias con las que triunfarás durante esta primavera 2019. 
+
+											Pero para incorporar las nuevas tendencias a tu armario, es imprescindible que defines bien tu estilo de vestir para que lo nuevo de las tiendas se adecúe a tu personalidad.
+
+											Así que dinos cómo eres y te diremos cuál es tu estilo de vestir. </p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<h3>Hay una tendencia de maquillaje del clan Kardashian </h3>
+											<p> Conoces la tendencia de contouring o contornos? Kim Kardashian y sus hermanas han puesto de moda esta técnica. 
+												Te compartimos algunos consejos para lograr un contouring perfecto: 
+
+												1. Con el color más oscuro, haz una forma de 3 en los laterales del rostro.
+
+												2. Difumina los tonos oscuros primero con una brocha, y con otra (o con un beauty blender mojado) los colores claros, después.
+
+												3. Utiliza el color más claro como delineador de labios, sobredibujándolos para darles más volumen.
+
+												4. El color más oscuro también puede servir para darle definición a los ojos.
+
+											5. Maquilla el eyeliner inferior con el color más claro para que tus ojos parezcan más grandes.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+											<h3>Tendencia Strobing: Qué es y  Cómo se aplica? </h3>
+											<p>El strobing es la aplicación de un iluminador para resaltar y dar luz a aquellas zonas del rostro que lo requieran. En cualquier estudio de visagismo veremos que la utilización de tonos claros o iluminadores sirven para aumentar visualmente el tamaño de las zonas en las que se aplican y suavizando los rasgos excesivamente duros en el rostro..</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										
+									</div>
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Página principal</a></li>
+										<li><a href="generic.html">Nuestra Academia </a></li>
+										<li><a href="elements.html">Equipo</a></li>
+										
+										<li><a href="#">Servicios</a></li>
+										<li><a href="#">Adipiscing</a></li>
+										<li>
+									</ul>
+								</nav>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Noticias</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">More</a></li>
+									</ul>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Contáctanos</h2>
+									</header>
+									
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">aphroditeayj@gmail.com</a></li>
+										<li class="icon solid fa-phone">(506) 8345-6014</li>
+										<li class="icon solid fa-home"> San José <br />
+										Barrio Escalante </li>
+									</ul>
+
+						<!-- Footer -->
+						<footer id="footer">
+						<section>
+							<form id="myform" method="post" action="mailto:aphroditeayj@gmail.com">
+								<div class="fields">
+									<div class="field">
+										<label for="Nombre">Nombre</label>
+										<input type="text" name="Nombre" id="Nombre" />
+									</div>
+									<div class="field">
+										<label for="Email">Email</label>
+										<input type="text" name="Email" id="Email" />
+									</div>
+									<div class="field">
+										<label for="Message">Message</label>
+										<textarea name="Message" id="Message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" onclick="validation();"></li>
+								</ul>
+							</form>
+						</section>
+							
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
